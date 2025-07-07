@@ -1,5 +1,10 @@
 Login to Your Bitdefender Account – Login Prompt Guide for Bitdefender Central
 ==============================================================================
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://bitdefenderdesk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Bitdefender</a>
+   </div>
 Accessing your Bitdefender dashboard starts with a secure and seamless login process. Whether you're managing your antivirus protection or updating subscriptions, the first step is always `bitdefender login account <https://central.bitdefender.com>`_. With the help of `bitdefender login account <https://central.bitdefender.com>`_, you gain full access to real-time protection settings, device management, and support tools. The platform also integrates `bitdefender central login <https://central.bitdefender.com>`_ services, making it easy to control and customize your security setup. If you're new or returning, this guide will walk you through how to use `bitdefender central login <https://central.bitdefender.com>`_ and how to handle common login issues using the trusted `bitdefender login account <https://central.bitdefender.com>`_ page.
 
 What is Bitdefender Central?
